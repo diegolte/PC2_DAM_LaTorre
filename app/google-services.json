@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955985938436",
+    "project_id": "pc2-dam-latorre",
+    "storage_bucket": "pc2-dam-latorre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955985938436:android:1d75f0964e6241e1040d51",
+        "android_client_info": {
+          "package_name": "com.example.pc2_dam_latorre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955985938436-csu3imdjc5ocldmv8pv0rtb0bd67s9mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfUSiy2_vdbN2RbqrTQpP5C41DDTMiFY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955985938436-csu3imdjc5ocldmv8pv0rtb0bd67s9mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
